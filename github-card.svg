@@ -80,7 +80,7 @@
     <circle r="6" fill="#1DB954"/>
     <circle r="2" fill="#0d1117"/>
     <text class="track-name" x="34" y="-4">Amazing</text>
-    <text class="track-artist" x="34" y="12">Kanye West · open.spotify.com</text>
+    <text class="track-artist" x="34" y="12">Kanye West</text>
   </g>
 
   <g transform="translate(46,306)">
@@ -91,7 +91,7 @@
     <circle r="6" fill="#1DB954"/>
     <circle r="2" fill="#0d1117"/>
     <text class="track-name" x="34" y="-4">POWER</text>
-    <text class="track-artist" x="34" y="12">Kanye West · open.spotify.com</text>
+    <text class="track-artist" x="34" y="12">Kanye West</text>
   </g>
 
   <line class="divider" x1="28" y1="352" x2="572" y2="352"/>
