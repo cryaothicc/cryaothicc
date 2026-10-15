@@ -100,11 +100,16 @@
   <text class="section" x="28" y="378">Most used languages</text>
 
   <g transform="translate(28,390)">
-    <rect x="0" y="0" width="544" height="10" rx="5" fill="#21262d"/>
-    <rect x="0" y="0" width="322.6" height="10" rx="5" fill="#3178c6"/>
-    <rect x="322.6" y="0" width="107.7" height="10" fill="#e34c26"/>
-    <rect x="430.3" y="0" width="111.7" height="10" rx="5" fill="#563d7c"/>
-    <rect x="538" y="0" width="6" height="10" rx="3" fill="#f1e05a"/>
+    <clipPath id="langBarClip">
+      <rect x="0" y="0" width="544" height="10" rx="5"/>
+    </clipPath>
+    <g clip-path="url(#langBarClip)">
+      <rect x="0" y="0" width="544" height="10" fill="#21262d"/>
+      <rect x="0" y="0" width="322.6" height="10" fill="#3178c6"/>
+      <rect x="322.6" y="0" width="107.7" height="10" fill="#e34c26"/>
+      <rect x="430.3" y="0" width="107.7" height="10" fill="#563d7c"/>
+      <rect x="538" y="0" width="6" height="10" fill="#f1e05a"/>
+    </g>
   </g>
 
   <g transform="translate(28,418)">
