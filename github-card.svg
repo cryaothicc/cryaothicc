@@ -101,23 +101,28 @@
 
   <g transform="translate(28,390)">
     <rect x="0" y="0" width="544" height="10" rx="5" fill="#21262d"/>
-    <rect x="0" y="0" width="326" height="10" rx="5" fill="#3178c6"/>
-    <rect x="326" y="0" width="109" height="10" fill="#e34c26"/>
-    <rect x="435" y="0" width="109" height="10" rx="5" fill="#563d7c"/>
+    <rect x="0" y="0" width="322.6" height="10" rx="5" fill="#3178c6"/>
+    <rect x="322.6" y="0" width="107.7" height="10" fill="#e34c26"/>
+    <rect x="430.3" y="0" width="111.7" height="10" rx="5" fill="#563d7c"/>
+    <rect x="538" y="0" width="6" height="10" rx="3" fill="#f1e05a"/>
   </g>
 
   <g transform="translate(28,418)">
     <circle cx="4" cy="-4" r="4" fill="#3178c6"/>
     <text class="lang-label" x="14" y="0">TypeScript</text>
-    <text class="lang-pct" x="90" y="0">60%</text>
+    <text class="lang-pct" x="90" y="0">59.3%</text>
 
-    <circle cx="184" cy="-4" r="4" fill="#e34c26"/>
-    <text class="lang-label" x="194" y="0">HTML</text>
-    <text class="lang-pct" x="240" y="0">20%</text>
+    <circle cx="144" cy="-4" r="4" fill="#e34c26"/>
+    <text class="lang-label" x="154" y="0">HTML</text>
+    <text class="lang-pct" x="200" y="0">19.8%</text>
 
-    <circle cx="320" cy="-4" r="4" fill="#563d7c"/>
-    <text class="lang-label" x="330" y="0">CSS</text>
-    <text class="lang-pct" x="368" y="0">20%</text>
+    <circle cx="254" cy="-4" r="4" fill="#563d7c"/>
+    <text class="lang-label" x="264" y="0">CSS</text>
+    <text class="lang-pct" x="302" y="0">19.8%</text>
+
+    <circle cx="356" cy="-4" r="4" fill="#f1e05a"/>
+    <text class="lang-label" x="366" y="0">JavaScript</text>
+    <text class="lang-pct" x="436" y="0">1.1%</text>
   </g>
 
   <text class="term" x="28" y="456">&gt; end_of_transmission_</text>
