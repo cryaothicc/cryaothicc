@@ -1,139 +1,171 @@
-<svg width="850" height="480" viewBox="0 0 850 480" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiYzJhYmRjYi02MjBhLTRlNmItOTkwOS1lZjNjZDlkYWY1NmEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLM/d3ndK0u+XnonBINELhEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyOTQ5ZWNiZS1iZDA1LTRkOGMtODdlYi02MWY2NzQzYmUwYmZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoYp7CjzrvXeF6uO2wReNqlwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggGqf4PsJKF5fWblYwVXP2xa7Oh5OBMcENza+hOQg5rYekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFWnWqp4bL3W2uOIMDPiTH8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAPkQC5asdhVm7/4DbyolHPVSqp13MbkFzL44HtMTXVJmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmJjMmFiZGNiLTYyMGEtNGU2Yi05OTA5LWVmM2NkOWRhZjU2YS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjQwYmI5ZDVkLWU4YzgtNDc1Yi1hOTc2LTFiZDkwNmFhYWIyMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAap/g+wkoXl9ZuVjBVc/bFrs6Hk4ExwQ3Nr6E5CDmth6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggbzwR6KcBJ/FRWXL/an7b3t9f8HWNVTUXp+EPFc80N4qiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggOeNI/3+vF5ffID+75MAgQVj1/OPFWz+8r+pl9n4nmwt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQL8gI+Qwc95l4qjXTXma4JZNN0x0W8ALuwWcmOq9Q4I9v7a4LokQmT0/WEYrUnaD1s976ocjEtcPVU2/2QRzpmk=</c2pa:manifest></metadata>
+<svg width="850" height="480" viewBox="0 0 850 480" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest">
   <defs>
     <style>
       .bg { fill: #0d1117; }
       .card-border { fill: none; stroke: #30363d; stroke-width: 1; }
-      .name { font: 700 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
+      .name { font: 700 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #56d364; }
       .handle { font: 400 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
       .term { font: 400 12px 'Consolas', 'Courier New', monospace; fill: #3fb950; }
       .meta { font: 400 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c9d1d9; }
-      .section { font: 700 14px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
+      .section { font: 700 14px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #56d364; }
       .track-name { font: 700 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c9d1d9; }
       .track-artist { font: 400 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
       .lang-label { font: 400 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #c9d1d9; }
       .lang-pct { font: 400 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8b949e; }
       .divider { stroke: #21262d; stroke-width: 1; }
+      .slot-label { font: 400 10px 'Consolas', 'Courier New', monospace; fill: #8b949e; letter-spacing: 0.5px; }
+      .ascii-art { font: 400 10.5px 'Consolas', 'Courier New', monospace; fill: #3fb950; letter-spacing: 0px; }
     </style>
   </defs>
 
-  <rect class="bg" x="0" y="0" width="850" height="480" rx="12"/>
-  <rect class="card-border" x="0.5" y="0.5" width="849" height="479" rx="12"/>
+  <!-- Main profile card (original 600px width) -->
+  <g>
+    <rect class="bg" x="0" y="0" width="600" height="480" rx="12"/>
+    <rect class="card-border" x="0.5" y="0.5" width="599" height="479" rx="12"/>
 
-  <!-- Header -->
-  <circle cx="34" cy="40" r="4" fill="#3fb950"/>
-  <text class="name" x="48" y="46">Renier</text>
-  <text class="handle" x="48" y="64">@cryaothicc</text>
-  <text class="term" x="48" y="84">&gt; renier@github:~$ whoami_</text>
+    <!-- Header -->
+    <circle cx="34" cy="40" r="4" fill="#3fb950"/>
+    <text class="name" x="48" y="46">Renier</text>
+    <text class="handle" x="48" y="64">@cryaothicc</text>
+    <text class="term" x="48" y="84">&gt; renier@github:~$ whoami_</text>
 
-  <g transform="translate(28,110)">
-    <circle cx="6" cy="0" r="7" fill="none" stroke="#8b949e" stroke-width="1.3"/>
-    <path d="M6 -3.5 V0 L8.5 2" fill="none" stroke="#8b949e" stroke-width="1.3" stroke-linecap="round"/>
-    <text class="meta" x="20" y="4">Joined GitHub Jan 21, 2025</text>
+    <g transform="translate(28,110)">
+      <circle cx="6" cy="0" r="7" fill="none" stroke="#8b949e" stroke-width="1.3"/>
+      <path d="M6 -3.5 V0 L8.5 2" fill="none" stroke="#8b949e" stroke-width="1.3" stroke-linecap="round"/>
+      <text class="meta" x="20" y="4">Joined GitHub Jan 21, 2025</text>
+    </g>
+
+    <g transform="translate(28,138)">
+      <rect x="0" y="-8" width="12" height="16" rx="2" fill="none" stroke="#8b949e" stroke-width="1.3"/>
+      <line x1="0" y1="-3" x2="12" y2="-3" stroke="#8b949e" stroke-width="1"/>
+      <text class="meta" x="20" y="4">8 Repositories <tspan class="handle">· 5 public · 3 private</tspan></text>
+    </g>
+
+    <!-- Isometric cube cluster: 3x3 diamond (9 cubes), drawn back to front -->
+    <g transform="translate(484,53)">
+      <path d="M0,-20 L17,-10 L0,0 L-17,-10 Z" fill="#56d364"/>
+      <path d="M-17,-10 L0,0 L0,20 L-17,10 Z" fill="#238636"/>
+      <path d="M17,-10 L0,0 L0,20 L17,10 Z" fill="#2ea043"/>
+      <path d="M-34,0 L-17,10 L-34,20 L-51,10 Z" fill="#56d364"/>
+      <path d="M-51,10 L-34,20 L-34,40 L-51,30 Z" fill="#238636"/>
+      <path d="M-17,10 L-34,20 L-34,40 L-17,30 Z" fill="#2ea043"/>
+      <path d="M34,0 L51,10 L34,20 L17,10 Z" fill="#56d364"/>
+      <path d="M17,10 L34,20 L34,40 L17,30 Z" fill="#238636"/>
+      <path d="M51,10 L34,20 L34,40 L51,30 Z" fill="#2ea043"/>
+      <path d="M-68,20 L-51,30 L-68,40 L-85,30 Z" fill="#56d364"/>
+      <path d="M-85,30 L-68,40 L-68,60 L-85,50 Z" fill="#238636"/>
+      <path d="M-51,30 L-68,40 L-68,60 L-51,50 Z" fill="#2ea043"/>
+      <path d="M0,20 L17,30 L0,40 L-17,30 Z" fill="#56d364"/>
+      <path d="M-17,30 L0,40 L0,60 L-17,50 Z" fill="#238636"/>
+      <path d="M17,30 L0,40 L0,60 L17,50 Z" fill="#2ea043"/>
+      <path d="M68,20 L85,30 L68,40 L51,30 Z" fill="#56d364"/>
+      <path d="M51,30 L68,40 L68,60 L51,50 Z" fill="#238636"/>
+      <path d="M85,30 L68,40 L68,60 L85,50 Z" fill="#2ea043"/>
+      <path d="M-34,40 L-17,50 L-34,60 L-51,50 Z" fill="#56d364"/>
+      <path d="M-51,50 L-34,60 L-34,80 L-51,70 Z" fill="#238636"/>
+      <path d="M-17,50 L-34,60 L-34,80 L-17,70 Z" fill="#2ea043"/>
+      <path d="M34,40 L51,50 L34,60 L17,50 Z" fill="#56d364"/>
+      <path d="M17,50 L34,60 L34,80 L17,70 Z" fill="#238636"/>
+      <path d="M51,50 L34,60 L34,80 L51,70 Z" fill="#2ea043"/>
+      <path d="M0,60 L17,70 L0,80 L-17,70 Z" fill="#56d364"/>
+      <path d="M-17,70 L0,80 L0,100 L-17,90 Z" fill="#238636"/>
+      <path d="M17,70 L0,80 L0,100 L17,90 Z" fill="#2ea043"/>
+    </g>
+
+    <line class="divider" x1="28" y1="180" x2="572" y2="180"/>
+
+    <!-- Suggested tracks -->
+    <text class="section" x="28" y="208">Suggested tracks</text>
+    <text class="handle" x="28" y="224">From Spotify</text>
+
+    <g transform="translate(46,254)">
+      <circle r="18" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
+      <circle r="18" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="13" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="8" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="6" fill="#3fb950"/>
+      <circle r="2" fill="#0d1117"/>
+      <text class="track-name" x="34" y="-4">Amazing</text>
+      <text class="track-artist" x="34" y="12">Kanye West</text>
+    </g>
+
+    <g transform="translate(46,306)">
+      <circle r="18" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
+      <circle r="18" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="13" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="8" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="6" fill="#3fb950"/>
+      <circle r="2" fill="#0d1117"/>
+      <text class="track-name" x="34" y="-4">POWER</text>
+      <text class="track-artist" x="34" y="12">Kanye West</text>
+    </g>
+
+    <line class="divider" x1="28" y1="352" x2="572" y2="352"/>
+
+    <!-- Most used languages -->
+    <text class="section" x="28" y="378">Most used languages</text>
+
+    <g transform="translate(28,390)">
+      <defs>
+        <clipPath id="langBarClip">
+          <rect x="0" y="0" width="544" height="10" rx="5"/>
+        </clipPath>
+      </defs>
+      <g clip-path="url(#langBarClip)">
+        <rect x="0.0" y="0" width="317.3" height="10" fill="#7ee787"/>
+        <rect x="320.3" y="0" width="105.9" height="10" fill="#3fb950"/>
+        <rect x="429.2" y="0" width="105.9" height="10" fill="#238636"/>
+        <rect x="538.1" y="0" width="5.9" height="10" fill="#145a25"/>
+      </g>
+    </g>
+
+    <g transform="translate(28,418)">
+      <circle cx="4" cy="-4" r="4" fill="#7ee787"/>
+      <text class="lang-label" x="14" y="0">TypeScript</text>
+      <text class="lang-pct" x="90" y="0">59.3%</text>
+
+      <circle cx="144" cy="-4" r="4" fill="#3fb950"/>
+      <text class="lang-label" x="154" y="0">HTML</text>
+      <text class="lang-pct" x="200" y="0">19.8%</text>
+
+      <circle cx="254" cy="-4" r="4" fill="#238636"/>
+      <text class="lang-label" x="264" y="0">CSS</text>
+      <text class="lang-pct" x="302" y="0">19.8%</text>
+
+      <circle cx="356" cy="-4" r="4" fill="#145a25"/>
+      <text class="lang-label" x="366" y="0">JavaScript</text>
+      <text class="lang-pct" x="436" y="0">1.1%</text>
+    </g>
+
+    <text class="term" x="28" y="456">&gt; end_of_transmission_</text>
   </g>
 
-  <g transform="translate(28,138)">
-    <rect x="0" y="-8" width="12" height="16" rx="2" fill="none" stroke="#8b949e" stroke-width="1.3"/>
-    <line x1="0" y1="-3" x2="12" y2="-3" stroke="#8b949e" stroke-width="1"/>
-    <text class="meta" x="20" y="4">8 Repositories <tspan class="handle">· 5 public · 3 private</tspan></text>
+  <!-- Vertical Pepe ASCII container -->
+  <g transform="translate(610,0)">
+    <rect class="bg" x="0" y="0" width="240" height="480" rx="12"/>
+    <rect class="card-border" x="0.5" y="0.5" width="239" height="479" rx="12"/>
+
+    <circle cx="34" cy="40" r="4" fill="#3fb950"/>
+    <text class="name" x="48" y="46">Status</text>
+    <text class="term" x="28" y="70">&gt; cat pepe.txt_</text>
+
+    <!-- Moved further right (translate X to 143) while maintaining the un-stretched scale (0.94, 1.8) -->
+    <g transform="translate(143, 130) scale(0.94, 1.8)">
+      <text class="ascii-art" text-anchor="middle" style="white-space: pre;">
+        <tspan x="0" dy="0">⠄⠄⠄⠄⠄⠄⠄⣠⣴⣶⣿⣿⡿⠶⠄⠄⠄⠄⠐⠒⠒⠲⠶⢄⠄⠄⠄⠄⠄</tspan>
+        <tspan x="0" dy="1.2em">⠄⠄⠄⠄⠄⣠⣾⡿⠟⠋⠁⠄⢀⣀⡀⠤⣦⢰⣤⣶⢶⣤⣤⣈⣆⠄⠄⠄⠄</tspan>
+        <tspan x="0" dy="1.2em">⠄⠄⠄⠄⢰⠟⠁⠄⢀⣤⣶⣿⡿⠿⣿⣿⣊⡘⠲⣶⣷⣶⠶⠶⠶⠦⠤⡀⠄</tspan>
+        <tspan x="0" dy="1.2em">⠄⠔⠊⠁⠁⠄⠄⢾⡿⣟⡯⣖⠯⠽⠿⠛⠛⠭⠽⠊⣲⣬⠽⠟⠛⠛⠭⢵⣂</tspan>
+        <tspan x="0" dy="1.2em">⡎⠄⠄⠄⠄⠄⠄⠄⢙⡷⠋⣴⡆⠄⠐⠂⢸⣿⣿⡶⢱⣶⡇⠄⠐⠂⢹⣷⣶</tspan>
+        <tspan x="0" dy="1.2em">⡇⠄⠄⠄⠄⣀⣀⡀⠄⣿⡓⠮⣅⣀⣀⣐⣈⣭⠤⢖⣮⣭⣥⣀⣤⣤⣭⡵⠂</tspan>
+        <tspan x="0" dy="1.2em">⣤⡀⢠⣾⣿⣿⣿⣿⣷⢻⣿⣿⣶⣶⡶⢖⣢⣴⣿⣿⣟⣛⠿⠿⠟⣛⠉⠄⠄</tspan>
+        <tspan x="0" dy="1.2em">⣿⡗⣼⣿⣿⣿⣿⡿⢋⡘⠿⣿⣿⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠄</tspan>
+        <tspan x="0" dy="1.2em">⣿⠱⢿⣿⣿⠿⢛⠰⣞⡛⠷⣬⣙⡛⠻⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⠿⠛⣓⡀</tspan>
+        <tspan x="0" dy="1.2em">⢡⣾⣷⢠⣶⣿⣿⣷⣌⡛⠷⣦⣍⣛⠻⠿⢿⣶⣶⣶⣦⣤⣴⣶⡶⠾⠿⠟⠁</tspan>
+        <tspan x="0" dy="1.2em">⣿⡟⣡⣿⣿⣿⣿⣿⣿⣿⣷⣦⣭⣙⡛⠓⠒⠶⠶⠶⠶⠶⠶⠶⠶⠿⠟⠄⠄</tspan>
+      </text>
+    </g>
+    
+    <text class="term" x="120" y="420" text-anchor="middle">&gt; feels_good_man_</text>
   </g>
-
-  <!-- Isometric cube tower (moved right: 500 -> 760) -->
-  <g transform="translate(760,53)">
-    <path d="M0,-20 L17,-10 L0,0 L-17,-10 Z" fill="#56d364"/>
-    <path d="M-17,-10 L0,0 L0,20 L-17,10 Z" fill="#238636"/>
-    <path d="M17,-10 L0,0 L0,20 L17,10 Z" fill="#2ea043"/>
-
-    <path d="M-34,0 L-17,10 L-34,20 L-51,10 Z" fill="#56d364"/>
-    <path d="M-51,10 L-34,20 L-34,40 L-51,30 Z" fill="#238636"/>
-    <path d="M-17,10 L-34,20 L-34,40 L-17,30 Z" fill="#2ea043"/>
-
-    <path d="M34,0 L51,10 L34,20 L17,10 Z" fill="#56d364"/>
-    <path d="M17,10 L34,20 L34,40 L17,30 Z" fill="#238636"/>
-    <path d="M51,10 L34,20 L34,40 L51,30 Z" fill="#2ea043"/>
-
-    <path d="M0,20 L17,30 L0,40 L-17,30 Z" fill="#56d364"/>
-    <path d="M-17,30 L0,40 L0,60 L-17,50 Z" fill="#238636"/>
-    <path d="M17,30 L0,40 L0,60 L17,50 Z" fill="#2ea043"/>
-
-    <path d="M-34,40 L-17,50 L-34,60 L-51,50 Z" fill="#56d364"/>
-    <path d="M-51,50 L-34,60 L-34,80 L-51,70 Z" fill="#238636"/>
-    <path d="M-17,50 L-34,60 L-34,80 L-17,70 Z" fill="#2ea043"/>
-
-    <path d="M34,40 L51,50 L34,60 L17,50 Z" fill="#56d364"/>
-    <path d="M17,50 L34,60 L34,80 L17,70 Z" fill="#238636"/>
-    <path d="M51,50 L34,60 L34,80 L51,70 Z" fill="#2ea043"/>
-  </g>
-
-  <line class="divider" x1="28" y1="180" x2="822" y2="180"/>
-
-  <!-- Suggested tracks -->
-  <text class="section" x="28" y="208">Suggested tracks</text>
-  <text class="handle" x="28" y="224">From Spotify</text>
-
-  <g transform="translate(46,254)">
-    <circle r="18" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
-    <circle r="18" fill="none" stroke="#21262d" stroke-width="0.6"/>
-    <circle r="13" fill="none" stroke="#21262d" stroke-width="0.6"/>
-    <circle r="8" fill="none" stroke="#21262d" stroke-width="0.6"/>
-    <circle r="6" fill="#1DB954"/>
-    <circle r="2" fill="#0d1117"/>
-    <text class="track-name" x="34" y="-4">Amazing</text>
-    <text class="track-artist" x="34" y="12">Kanye West</text>
-  </g>
-
-  <g transform="translate(46,306)">
-    <circle r="18" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
-    <circle r="18" fill="none" stroke="#21262d" stroke-width="0.6"/>
-    <circle r="13" fill="none" stroke="#21262d" stroke-width="0.6"/>
-    <circle r="8" fill="none" stroke="#21262d" stroke-width="0.6"/>
-    <circle r="6" fill="#1DB954"/>
-    <circle r="2" fill="#0d1117"/>
-    <text class="track-name" x="34" y="-4">POWER</text>
-    <text class="track-artist" x="34" y="12">Kanye West</text>
-  </g>
-
-  <line class="divider" x1="28" y1="352" x2="822" y2="352"/>
-
-  <!-- Most used languages (bar width 544 -> 794) -->
-  <text class="section" x="28" y="378">Most used languages</text>
-
-  <g transform="translate(28,390)">
-    <defs>
-      <clipPath id="langBarClip">
-        <rect x="0" y="0" width="794" height="10" rx="5"/>
-      </clipPath>
-      <linearGradient id="langGrad" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#3178c6"/>
-        <stop offset="57%" stop-color="#3178c6"/>
-        <stop offset="61%" stop-color="#e34c26"/>
-        <stop offset="77%" stop-color="#e34c26"/>
-        <stop offset="81%" stop-color="#563d7c"/>
-        <stop offset="97%" stop-color="#563d7c"/>
-        <stop offset="99%" stop-color="#f1e05a"/>
-        <stop offset="100%" stop-color="#f1e05a"/>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="794" height="10" fill="#21262d"/>
-    <rect x="0" y="0" width="794" height="10" fill="url(#langGrad)" clip-path="url(#langBarClip)"/>
-  </g>
-
-  <g transform="translate(28,418)">
-    <circle cx="4" cy="-4" r="4" fill="#3178c6"/>
-    <text class="lang-label" x="14" y="0">TypeScript</text>
-    <text class="lang-pct" x="90" y="0">59.3%</text>
-
-    <circle cx="204" cy="-4" r="4" fill="#e34c26"/>
-    <text class="lang-label" x="214" y="0">HTML</text>
-    <text class="lang-pct" x="260" y="0">19.8%</text>
-
-    <circle cx="374" cy="-4" r="4" fill="#563d7c"/>
-    <text class="lang-label" x="384" y="0">CSS</text>
-    <text class="lang-pct" x="422" y="0">19.8%</text>
-
-    <circle cx="536" cy="-4" r="4" fill="#f1e05a"/>
-    <text class="lang-label" x="546" y="0">JavaScript</text>
-    <text class="lang-pct" x="616" y="0">1.1%</text>
-  </g>
-
-  <text class="term" x="28" y="456">&gt; end_of_transmission_</text>
 </svg>
