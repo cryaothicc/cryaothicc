@@ -75,37 +75,59 @@
     <line class="divider" x1="28" y1="180" x2="572" y2="180"/>
 
     <!-- Suggested tracks -->
-    <text class="section" x="28" y="208">Suggested tracks</text>
-    <text class="handle" x="28" y="224">From Spotify</text>
+    <text class="section" x="28" y="202">Suggested tracks</text>
+    <text class="handle" x="28" y="216">From Spotify</text>
 
-    <g transform="translate(46,254)">
-      <circle r="18" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
-      <circle r="18" fill="none" stroke="#21262d" stroke-width="0.6"/>
-      <circle r="13" fill="none" stroke="#21262d" stroke-width="0.6"/>
-      <circle r="8" fill="none" stroke="#21262d" stroke-width="0.6"/>
+    <!-- Track 1: Amazing (Top Left) -->
+    <g transform="translate(46,240)">
+      <circle r="16" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
+      <circle r="16" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="11" fill="none" stroke="#21262d" stroke-width="0.6"/>
       <circle r="6" fill="#3fb950"/>
       <circle r="2" fill="#0d1117"/>
-      <text class="track-name" x="34" y="-4">Amazing</text>
-      <text class="track-artist" x="34" y="12">Kanye West</text>
+      <text class="track-name" x="30" y="-4">Amazing</text>
+      <text class="track-artist" x="30" y="11">Kanye West</text>
     </g>
 
-    <g transform="translate(46,306)">
-      <circle r="18" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
-      <circle r="18" fill="none" stroke="#21262d" stroke-width="0.6"/>
-      <circle r="13" fill="none" stroke="#21262d" stroke-width="0.6"/>
-      <circle r="8" fill="none" stroke="#21262d" stroke-width="0.6"/>
+    <!-- Track 2: Total Praise (Top Right) -->
+    <g transform="translate(200,240)">
+      <circle r="16" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
+      <circle r="16" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="11" fill="none" stroke="#21262d" stroke-width="0.6"/>
       <circle r="6" fill="#3fb950"/>
       <circle r="2" fill="#0d1117"/>
-      <text class="track-name" x="34" y="-4">POWER</text>
-      <text class="track-artist" x="34" y="12">Kanye West</text>
+      <text class="track-name" x="30" y="-4">Total Praise</text>
+      <text class="track-artist" x="30" y="11">Sunday Service Choir</text>
+    </g>
+
+    <!-- Track 3: POWER (Bottom Left) -->
+    <g transform="translate(46,296)">
+      <circle r="16" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
+      <circle r="16" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="11" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="6" fill="#3fb950"/>
+      <circle r="2" fill="#0d1117"/>
+      <text class="track-name" x="30" y="-4">POWER</text>
+      <text class="track-artist" x="30" y="11">Kanye West</text>
+    </g>
+
+    <!-- Track 4: Heaven and Hell (Bottom Right) -->
+    <g transform="translate(200,296)">
+      <circle r="16" fill="#0a0a0a" stroke="#30363d" stroke-width="1"/>
+      <circle r="16" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="11" fill="none" stroke="#21262d" stroke-width="0.6"/>
+      <circle r="6" fill="#3fb950"/>
+      <circle r="2" fill="#0d1117"/>
+      <text class="track-name" x="30" y="-4">Heaven and Hell</text>
+      <text class="track-artist" x="30" y="11">Kanye West</text>
     </g>
 
     <line class="divider" x1="28" y1="352" x2="572" y2="352"/>
 
     <!-- Most used languages -->
-    <text class="section" x="28" y="378">Most used languages</text>
+    <text class="section" x="28" y="376">Most used languages</text>
 
-    <g transform="translate(28,390)">
+    <g transform="translate(28,388)">
       <defs>
         <clipPath id="langBarClip">
           <rect x="0" y="0" width="544" height="10" rx="5"/>
@@ -119,7 +141,7 @@
       </g>
     </g>
 
-    <g transform="translate(28,418)">
+    <g transform="translate(28,416)">
       <circle cx="4" cy="-4" r="4" fill="#7ee787"/>
       <text class="lang-label" x="14" y="0">TypeScript</text>
       <text class="lang-pct" x="90" y="0">59.3%</text>
@@ -137,7 +159,7 @@
       <text class="lang-pct" x="436" y="0">1.1%</text>
     </g>
 
-    <text class="term" x="28" y="456">&gt; end_of_transmission_</text>
+    <text class="term" x="28" y="452">&gt; end_of_transmission_</text>
   </g>
 
   <!-- Vertical Pepe ASCII container -->
@@ -166,7 +188,7 @@
       </text>
     </g>
     
-    <!-- Bottom text aligned to the left side (matching the margin of Status and 7chan.txt) -->
+    <!-- Bottom text aligned to the left side -->
     <text class="term" x="28" y="420">&gt; feels_good_man_</text>
   </g>
 </svg>
