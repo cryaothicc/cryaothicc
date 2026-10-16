@@ -147,9 +147,9 @@
 
     <circle cx="34" cy="40" r="4" fill="#3fb950"/>
     <text class="name" x="48" y="46">Status</text>
-    <text class="term" x="28" y="70">&gt; cat pepe.txt_</text>
+    <text class="term" x="28" y="70">&gt; 7chan.txt</text>
 
-    <!-- Moved further right (translate X to 143) while maintaining the un-stretched scale (0.94, 1.8) -->
+    <!-- Pepe ASCII Art Positioned at X: 143 -->
     <g transform="translate(143, 130) scale(0.94, 1.8)">
       <text class="ascii-art" text-anchor="middle" style="white-space: pre;">
         <tspan x="0" dy="0">⠄⠄⠄⠄⠄⠄⠄⣠⣴⣶⣿⣿⡿⠶⠄⠄⠄⠄⠐⠒⠒⠲⠶⢄⠄⠄⠄⠄⠄</tspan>
@@ -166,6 +166,7 @@
       </text>
     </g>
     
-    <text class="term" x="120" y="420" text-anchor="middle">&gt; feels_good_man_</text>
+    <!-- Bottom text aligned to the left side (matching the margin of Status and 7chan.txt) -->
+    <text class="term" x="28" y="420">&gt; feels_good_man_</text>
   </g>
 </svg>
