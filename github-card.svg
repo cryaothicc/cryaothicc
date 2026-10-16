@@ -147,7 +147,7 @@
 
     <circle cx="34" cy="40" r="4" fill="#3fb950"/>
     <text class="name" x="48" y="46">Status</text>
-    <text class="term" x="28" y="70">&gt; 7chan.txt</text>
+    <text class="term" x="28" y="70">&gt; 7chan.txt_</text>
 
     <!-- Pepe ASCII Art Positioned at X: 143 -->
     <g transform="translate(143, 130) scale(0.94, 1.8)">
