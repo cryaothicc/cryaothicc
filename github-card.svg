@@ -38,7 +38,7 @@
     <g transform="translate(28,138)">
       <rect x="0" y="-8" width="12" height="16" rx="2" fill="none" stroke="#8b949e" stroke-width="1.3"/>
       <line x1="0" y1="-3" x2="12" y2="-3" stroke="#8b949e" stroke-width="1"/>
-      <text class="meta" x="20" y="4">8 Repositories <tspan class="handle">· 5 public · 3 private</tspan></text>
+      <text class="meta" x="20" y="4">9 Repositories <tspan class="handle">· 6 public · 3 private</tspan></text>
     </g>
 
     <!-- Isometric cube cluster: 3x3 diamond (9 cubes), drawn back to front -->
