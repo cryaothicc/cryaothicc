@@ -42,38 +42,30 @@
     </g>
 
     <!-- Isometric cube cluster: 3x3 diamond (9 cubes), drawn back to front -->
-    <g transform="translate(484,53)">
-      <path d="M0,-20 L17,-10 L0,0 L-17,-10 Z" fill="#56d364"/>
-      <path d="M-17,-10 L0,0 L0,20 L-17,10 Z" fill="#238636"/>
-      <path d="M17,-10 L0,0 L0,20 L17,10 Z" fill="#2ea043"/>
-      <path d="M-34,0 L-17,10 L-34,20 L-51,10 Z" fill="#56d364"/>
-      <path d="M-51,10 L-34,20 L-34,40 L-51,30 Z" fill="#238636"/>
-      <path d="M-17,10 L-34,20 L-34,40 L-17,30 Z" fill="#2ea043"/>
-      <path d="M34,0 L51,10 L34,20 L17,10 Z" fill="#56d364"/>
-      <path d="M17,10 L34,20 L34,40 L17,30 Z" fill="#238636"/>
-      <path d="M51,10 L34,20 L34,40 L51,30 Z" fill="#2ea043"/>
-      <path d="M-68,20 L-51,30 L-68,40 L-85,30 Z" fill="#56d364"/>
-      <path d="M-85,30 L-68,40 L-68,60 L-85,50 Z" fill="#238636"/>
-      <path d="M-51,30 L-68,40 L-68,60 L-51,50 Z" fill="#2ea043"/>
-      <path d="M0,20 L17,30 L0,40 L-17,30 Z" fill="#56d364"/>
-      <path d="M-17,30 L0,40 L0,60 L-17,50 Z" fill="#238636"/>
-      <path d="M17,30 L0,40 L0,60 L17,50 Z" fill="#2ea043"/>
-      <path d="M68,20 L85,30 L68,40 L51,30 Z" fill="#56d364"/>
-      <path d="M51,30 L68,40 L68,60 L51,50 Z" fill="#238636"/>
-      <path d="M85,30 L68,40 L68,60 L85,50 Z" fill="#2ea043"/>
-      <path d="M-34,40 L-17,50 L-34,60 L-51,50 Z" fill="#56d364"/>
-      <path d="M-51,50 L-34,60 L-34,80 L-51,70 Z" fill="#238636"/>
-      <path d="M-17,50 L-34,60 L-34,80 L-17,70 Z" fill="#2ea043"/>
-      <path d="M34,40 L51,50 L34,60 L17,50 Z" fill="#56d364"/>
-      <path d="M17,50 L34,60 L34,80 L17,70 Z" fill="#238636"/>
-      <path d="M51,50 L34,60 L34,80 L51,70 Z" fill="#2ea043"/>
-      <path d="M0,60 L17,70 L0,80 L-17,70 Z" fill="#56d364"/>
-      <path d="M-17,70 L0,80 L0,100 L-17,90 Z" fill="#238636"/>
-      <path d="M17,70 L0,80 L0,100 L17,90 Z" fill="#2ea043"/>
-            <!-- 10th cube: stacked on the front cube -->
-      <path d="M0,40 L17,50 L0,60 L-17,50 Z" fill="#56d364" />
-      <path d="M-17,50 L0,60 L0,80 L-17,70 Z" fill="#238636" />
-      <path d="M17,50 L0,60 L0,80 L17,70 Z" fill="#2ea043" />
+        <!-- Isometric cube pyramid: rows of 1-2-3-4 (10 cubes) -->
+    <g transform="translate(484,98)">
+      <defs>
+        <g id="cube">
+          <path d="M0,-20 L17,-10 L0,0 L-17,-10 Z" fill="#56d364" />
+          <path d="M-17,-10 L0,0 L0,20 L-17,10 Z" fill="#238636" />
+          <path d="M17,-10 L0,0 L0,20 L17,10 Z" fill="#2ea043" />
+        </g>
+      </defs>
+
+      <!-- row 1 -->
+      <use href="#cube" x="0" y="-51" />
+      <!-- row 2 -->
+      <use href="#cube" x="-19" y="-17" />
+      <use href="#cube" x="19" y="-17" />
+      <!-- row 3 -->
+      <use href="#cube" x="-38" y="17" />
+      <use href="#cube" x="0" y="17" />
+      <use href="#cube" x="38" y="17" />
+      <!-- row 4 -->
+      <use href="#cube" x="-57" y="51" />
+      <use href="#cube" x="-19" y="51" />
+      <use href="#cube" x="19" y="51" />
+      <use href="#cube" x="57" y="51" />
     </g>
 
     <line class="divider" x1="28" y1="180" x2="572" y2="180"/>
