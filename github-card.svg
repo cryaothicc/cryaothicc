@@ -71,6 +71,22 @@
       <use href="#cubePrivate" x="19" y="51" />
       <use href="#cubePrivate" x="57" y="51" />
     </g>
+
+      <!-- row 1 -->
+      <use href="#cube" x="0" y="-51" />
+      <!-- row 2 -->
+      <use href="#cube" x="-19" y="-17" />
+      <use href="#cube" x="19" y="-17" />
+      <!-- row 3 -->
+      <use href="#cube" x="-38" y="17" />
+      <use href="#cube" x="0" y="17" />
+      <use href="#cubePrivate" x="38" y="17" />
+      <!-- row 4 -->
+      <use href="#cube" x="-57" y="51" />
+      <use href="#cube" x="-19" y="51" />
+      <use href="#cubePrivate" x="19" y="51" />
+      <use href="#cubePrivate" x="57" y="51" />
+    </g>
       </defs>
 
       <use href="#cube" x="0" y="-51" />
