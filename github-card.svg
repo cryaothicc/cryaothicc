@@ -70,11 +70,6 @@
       <path d="M0,60 L17,70 L0,80 L-17,70 Z" fill="#56d364"/>
       <path d="M-17,70 L0,80 L0,100 L-17,90 Z" fill="#238636"/>
       <path d="M17,70 L0,80 L0,100 L17,90 Z" fill="#2ea043"/>
-      <!-- 10th Cube (Stacked on top center) -->
-     <!-- 10th Cube (Correctly stacked on top of the center peak) -->
-      <path d="M0,-40 L17,-30 L0,-20 L-17,-30 Z" fill="#56d364"/>
-      <path d="M-17,-30 L0,-20 L0,0 L-17,-10 Z" fill="#238636"/>
-      <path d="M17,-30 L0,-20 L0,0 L17,-10 Z" fill="#2ea043"/>
     </g>
 
     <line class="divider" x1="28" y1="180" x2="572" y2="180"/>
