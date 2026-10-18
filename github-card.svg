@@ -41,7 +41,7 @@
       <text class="meta" x="20" y="4">10 Repositories <tspan class="handle">· 7 public · 3 private</tspan></text>
     </g>
     
-        <!-- Isometric cube pyramid: 7 public (green) + 3 private (blue) -->
+       <!-- Isometric cube pyramid: 7 public (green) + 3 private (black) -->
     <g transform="translate(484,98) scale(0.8)">
       <defs>
         <g id="cube">
@@ -49,26 +49,26 @@
           <path d="M-17,-10 L0,0 L0,20 L-17,10 Z" fill="#238636" />
           <path d="M17,-10 L0,0 L0,20 L17,10 Z" fill="#2ea043" />
         </g>
-        <g id="cubePrivate">
-          <path d="M0,-20 L17,-10 L0,0 L-17,-10 Z" fill="#79c0ff" />
-          <path d="M-17,-10 L0,0 L0,20 L-17,10 Z" fill="#1158c7" />
-          <path d="M17,-10 L0,0 L0,20 L17,10 Z" fill="#388bfd" />
+        <g id="cubePrivate" stroke="#4a5058" stroke-width="0.8" stroke-linejoin="round">
+          <path d="M0,-20 L17,-10 L0,0 L-17,-10 Z" fill="#1c1f24" />
+          <path d="M-17,-10 L0,0 L0,20 L-17,10 Z" fill="#000000" />
+          <path d="M17,-10 L0,0 L0,20 L17,10 Z" fill="#0a0a0a" />
         </g>
       </defs>
 
       <!-- row 1 -->
-      <use href="#cubePrivate" x="0" y="-51" />
+      <use href="#cube" x="0" y="-51" />
       <!-- row 2 -->
       <use href="#cube" x="-19" y="-17" />
       <use href="#cube" x="19" y="-17" />
       <!-- row 3 -->
       <use href="#cube" x="-38" y="17" />
       <use href="#cube" x="0" y="17" />
-      <use href="#cube" x="38" y="17" />
+      <use href="#cubePrivate" x="38" y="17" />
       <!-- row 4 -->
-      <use href="#cubePrivate" x="-57" y="51" />
+      <use href="#cube" x="-57" y="51" />
       <use href="#cube" x="-19" y="51" />
-      <use href="#cube" x="19" y="51" />
+      <use href="#cubePrivate" x="19" y="51" />
       <use href="#cubePrivate" x="57" y="51" />
     </g>
 
