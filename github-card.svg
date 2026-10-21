@@ -56,7 +56,7 @@
     </g>
 
     <!-- Isometric cube grid 4x3: 9 public (green) + 3 private (black, GitHub logo) -->
-    <g transform="translate(475,71) scale(0.9)">
+    <g transform="translate(477,54) scale(1.3)">
       <!-- back to front -->
       <use xlink:href="#cube" x="0" y="0" />
       <use xlink:href="#cube" x="-20" y="12" />
