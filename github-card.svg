@@ -55,24 +55,21 @@
       <text class="meta" x="20" y="4">12 Repositories <tspan class="handle">· 9 public · 3 private</tspan></text>
     </g>
 
-      <!-- Isometric cubes: 9 public (green) + 3 private (black, GitHub logo) -->
-    <g transform="translate(484,98) scale(0.8)">
-      <!-- row 1 -->
-      <use xlink:href="#cube" x="-19" y="-51" />
-      <use xlink:href="#cube" x="19" y="-51" />
-      <!-- row 2 -->
-      <use xlink:href="#cube" x="-38" y="-17" />
-      <use xlink:href="#cube" x="0" y="-17" />
-      <use xlink:href="#cube" x="38" y="-17" />
-      <!-- row 3 -->
-      <use xlink:href="#cube" x="-57" y="17" />
-      <use xlink:href="#cube" x="-19" y="17" />
-      <use xlink:href="#cube" x="19" y="17" />
-      <use xlink:href="#cubePrivate" x="57" y="17" />
-      <!-- row 4 -->
-      <use xlink:href="#cube" x="-38" y="51" />
-      <use xlink:href="#cubePrivate" x="0" y="51" />
-      <use xlink:href="#cubePrivate" x="38" y="51" />
+    <!-- Isometric cube grid 4x3: 9 public (green) + 3 private (black, GitHub logo) -->
+    <g transform="translate(475,71) scale(0.9)">
+      <!-- back to front -->
+      <use xlink:href="#cube" x="0" y="0" />
+      <use xlink:href="#cube" x="-20" y="12" />
+      <use xlink:href="#cube" x="20" y="12" />
+      <use xlink:href="#cube" x="-40" y="24" />
+      <use xlink:href="#cube" x="0" y="24" />
+      <use xlink:href="#cube" x="40" y="24" />
+      <use xlink:href="#cube" x="-20" y="36" />
+      <use xlink:href="#cube" x="20" y="36" />
+      <use xlink:href="#cube" x="60" y="36" />
+      <use xlink:href="#cubePrivate" x="0" y="48" />
+      <use xlink:href="#cubePrivate" x="40" y="48" />
+      <use xlink:href="#cubePrivate" x="20" y="60" />
     </g>
 
     <line class="divider" x1="28" y1="180" x2="572" y2="180" />
