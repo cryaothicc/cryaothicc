@@ -52,7 +52,7 @@
     <g transform="translate(28,138)">
       <rect x="0" y="-8" width="12" height="16" rx="2" fill="none" stroke="#8b949e" stroke-width="1.3" />
       <line x1="0" y1="-3" x2="12" y2="-3" stroke="#8b949e" stroke-width="1" />
-      <text class="meta" x="20" y="4">14 Repositories <tspan class="handle">· 11 public · 3 private</tspan></text>
+      <text class="meta" x="20" y="4">14 Repositories <tspan class="handle">· 11 public · 4 private</tspan></text>
     </g>
 
     <!-- Isometric cube pyramid: 10 public (green) + 4 private (black, GitHub logo) -->
